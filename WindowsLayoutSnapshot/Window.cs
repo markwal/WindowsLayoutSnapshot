@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Runtime.InteropServices;
-using System.Text;
 
-namespace WindowsLayoutSnapshot {
+namespace WindowsLayoutSnapshot
+{
 
     // Open source
     // Imported by: Adam Smith
